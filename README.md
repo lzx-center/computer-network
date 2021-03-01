@@ -1,2 +1,2 @@
-# computer-network
-computer network class materials of cuc
+# 计算机网络
+中国传媒大学广播电视工程专业《计算机网络》课件，实验报告以及复习材料
